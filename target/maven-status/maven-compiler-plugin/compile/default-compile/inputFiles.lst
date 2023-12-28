@@ -1,0 +1,13 @@
+G:\MIs Programas\Login\src\main\java\capas\login\igu\PrincipalUser.java
+G:\MIs Programas\Login\src\main\java\capas\login\Login.java
+G:\MIs Programas\Login\src\main\java\capas\login\logica\Usuario.java
+G:\MIs Programas\Login\src\main\java\capas\login\persistencia\exceptions\IllegalOrphanException.java
+G:\MIs Programas\Login\src\main\java\capas\login\persistencia\RolJpaController.java
+G:\MIs Programas\Login\src\main\java\capas\login\logica\Controladora.java
+G:\MIs Programas\Login\src\main\java\capas\login\persistencia\UsuarioJpaController.java
+G:\MIs Programas\Login\src\main\java\capas\login\persistencia\exceptions\PreexistingEntityException.java
+G:\MIs Programas\Login\src\main\java\capas\login\igu\PrincipalAdmin.java
+G:\MIs Programas\Login\src\main\java\capas\login\logica\Rol.java
+G:\MIs Programas\Login\src\main\java\capas\login\persistencia\exceptions\NonexistentEntityException.java
+G:\MIs Programas\Login\src\main\java\capas\login\igu\LoginInicial.java
+G:\MIs Programas\Login\src\main\java\capas\login\persistencia\ControladoraPersistencia.java
